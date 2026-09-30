@@ -9,7 +9,8 @@ expenses = food + transport + school
 remaining_income = after_saving - expenses
 print("remaining_income",remaining_income)
 expenses_percentage = (expenses / income)*100
-print("expenses_percentage",expenses_percentage)
+print("expenses_percentage",round(expenses_percentage, 2),"%")
+
 
 
 

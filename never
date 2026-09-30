@@ -1,0 +1,3 @@
+my_name = "edel"
+print(my_name)
+print("hello world")
